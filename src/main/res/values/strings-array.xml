@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TipoMascotas">
+        <item>Chico</item>
+        <item>Mediano</item>
+        <item>Grande</item>
+    </string-array>
+    <string-array name="IntervaloHora">
+        <item>Cada 24hs</item>
+        <item>Cada 12hs</item>
+        <item>Cada 8hs</item>
+        <item>Cada 4hs</item>
+    </string-array>
+</resources>

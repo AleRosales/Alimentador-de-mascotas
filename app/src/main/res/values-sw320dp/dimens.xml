@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <dimen name="texto_subtitulos">15sp</dimen>
+    <dimen name="texto">14sp</dimen>
+    <dimen name="anchoBT_menu">26dp</dimen>
+    <dimen name="banner_width">190dp</dimen>
+    <dimen name="banner_height">130dp</dimen>
+    <dimen name="texto_titulos">20sp</dimen>
+    <dimen name="padding_BT">4dp</dimen>
+</resources>

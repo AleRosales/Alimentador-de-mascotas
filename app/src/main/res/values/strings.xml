@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alimentador_Final</string>
+    <string name="alert_RB2">Mascota Mediana</string>
+    <string name="alert_RB1">Mascota Pequeña</string>
+    <string name="alert_RB3">Mascota Grande</string>
+    <string name="alert_titulo">Alimentar mascota</string>
+    <string name="historial_titulo">Historial</string>
+</resources>
